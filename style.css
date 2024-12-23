@@ -13,14 +13,14 @@ body {
   }
   
   .logo {
-    height: 100px;
+    height: 20px;
   }
   
   .header a {
     margin-left: 20px;
     text-decoration: none;
     color: rgb(243, 241, 241);
-    font-size: 50px;
+    font-size: 18px;
   }
   
   .header a:hover {
