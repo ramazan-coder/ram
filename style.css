@@ -8,8 +8,8 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
-    background-color: #f5f5f5;
+    padding: 25px;
+    background-color: #eee3e3;
   }
   
   .logo {
@@ -20,7 +20,7 @@ body {
     margin-left: 20px;
     text-decoration: none;
     color: rgb(243, 241, 241);
-    font-size: 18px;
+    font-size: 15px;
   }
   
   .header a:hover {
@@ -34,13 +34,13 @@ body {
   }
   
   .block h1 {
-    font-size: 36px;
-    color: #333333;
+    font-size: 55px;
+    color: #150f0f;
   }
   
   .block p {
-    font-size: 16px;
-    color: #666666;
+    font-size: 18px;
+    color: #190f0f;
   }
   
   .block a {
